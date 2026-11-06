@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OJSONForge
+Comment=JSON Query, Transform, Validate & Pretty
+Exec=OJSONForge
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OCore;
+Keywords=OJSONForge;owlsec;security;json;
